@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for a yearly increase of wealth, by subscriptions to advance money upon lives examined and approved by the city. Which will produce great advantage by survivorship, to such as please to subscribe for one, or more lives of the ages of any, or of all the ten ranks, and for any of the summs of money of each rank, as hereby is exprest.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56012</idno>
+            <idno type="STC">Wing P3690</idno>
+            <idno type="STC">ESTC R219007</idno>
+            <idno type="EEBO-CITATION">99830546</idno>
+            <idno type="PROQUEST">99830546</idno>
+            <idno type="VID">34998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34998)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1874:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for a yearly increase of wealth, by subscriptions to advance money upon lives examined and approved by the city. Which will produce great advantage by survivorship, to such as please to subscribe for one, or more lives of the ages of any, or of all the ten ranks, and for any of the summs of money of each rank, as hereby is exprest.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>At Mr. Hill's, stationer in Exchange-Alley, Cornill, subscriptions will be taken for this and the City Bank of Credit,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1682]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing; printer's name from colophon.</note>
+                  <note>Copy bound with additional copy that is trimmed at foot, affecting colophon.</note>
+                  <note>Reproduction of the original at the University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Insurance, Life --  England --  Tontine policies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34998:1"/>
+            <!-- PDF PAGE 27 -->
+            <head>A Propoſal for a Yearly Increaſe of Wealth, by Subſcriptions to Advance Money upon Lives: Examined and approved by the City. Which will produce great Advantage by Survivor<g ref="char:EOLhyphen"/>ſhip, to ſuch as pleaſe to Subſcribe for one, or more Lives of the Ages of any, or of all the Ten Ranks, and for any of the Summs of Money of each Rank, as hereby is Expreſt.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Subſcriptions.</cell>
+                     <cell role="label" rows="2">Number of Perſons in each Rank.</cell>
+                     <cell role="label">Summ Total.</cell>
+                     <cell role="label">Intereſt per Annum.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">l.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">l.</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>2000</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>1000</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>500</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>400</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>200</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>100</cell>
+                     <cell>100</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>50</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>400</cell>
+                     <cell>25</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>500</cell>
+                     <cell>20</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>1000</cell>
+                     <cell>10</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+               </table>
+            </p>
+            <p>EVery Perſon from the time of Payment of the Money he Subſcribes, ſhall receive the full <hi>In<g ref="char:EOLhyphen"/>tereſt</hi> thereof at 6 <hi>l. per Cent. per Annum;</hi> and as any of thoſe that are in the ſame Rank dye, his In<g ref="char:EOLhyphen"/>come increaſes, the Survivours of that Rank being to have the whole 600 <hi>l. per Annum</hi> (which is the <hi>Intereſt</hi> of all the Money Advanced by that Rank they are in) divided among them; and ſo in time the Survivours of that Rank, happening to be but three or four, will have the whole 600 <hi>l. per Annum</hi> during their Lives among them; and at laſt, he that ſhall continue the longeſt Liver of the Rank ſhall have the 600 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> wholly to himſelf ſo long as he lives.</p>
+            <p>
+               <pb n="2" facs="tcp:34998:2"/>
+               <!-- PDF PAGE 28 -->
+By this meanes, he that will make ſeveral Subſcrip<g ref="char:EOLhyphen"/>tions of the five firſt, or ſmaller Summs, which all amount to but 110 <hi>l.</hi> and Rank himſelf accordingly in each of thoſe <hi>Claſſes</hi> (of his Age) which belong to thoſe Summs, hath a Proſpect or Poſſibility to have for his 110 <hi>l.</hi> five times 600 <hi>l.</hi> in all 3000 <hi>l. per Annum</hi> during his Life, as is Evident by the ſaid Scheme or Table.</p>
+            <p>If he will make ſeveral Subſcriptions of all the ten Sums, which amount to 2310 <hi>l.</hi> he hath the like Proſpect, or Poſſibility to have ten times 600. <hi>l.</hi> in all, 6000 <hi>l. per Annum</hi> during his Life; and although in this Caſe more Money is advanced; yet there are fewer Competitors in the ſame Rank for the great Summs, and ſo more probability of Surviving.</p>
+            <p>If the Perſon Subſcribing be at any time, during his Life, minded to transfer, or ſell his <hi>Intereſt,</hi> it will eve<g ref="char:EOLhyphen"/>ry Year ſell for more money than it would the Year before; for the more dye, the greater is the Income to the Survivours. And as often as any ſhall deſire to ex<g ref="char:EOLhyphen"/>change a Life, having firſt made an Agreement with the <hi>Chamberlain</hi> of the City for the time being, and the Managers of the Rank, he may have liberty ſo to do, the Fine for ſuch Exchange not exceeding the Income of the year laſt paſt, one half to the City, and the other half to the Subſcriber of the Rank.</p>
+            <p>The Fund for Security of theſe Payments ſhall be ſettled on <hi>Truſtees</hi> to be nominated by, and choſen out of the Subſcribers in each Rank or Claſs, before their Payment of any Money.</p>
+            <div type="notice">
+               <p>At Mr. <hi>Hill's, Stationer</hi> in <hi>Exchange-Alley, Cornhill,</hi> Subſcriptions will be <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for this and the City <hi>Bank of Credit.</hi>
+               </p>
+               <pb n="1" facs="tcp:34998:2"/>
+               <!-- PDF PAGE 28 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:34998:3"/>
+               <!-- PDF PAGE 29 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
